@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sohipm/sohipm** is a ✨ Data Science As a Service ✨ platform alongwith lots of free and commerically use small and big project for everyone.
 Here are some ideas to get you started:
@@ -12,11 +10,6 @@ Here are some ideas to get you started:
 - 😄 Organized by meaning: Rakesh Sahni
 - ⚡ Fun fact: Do some fun with AI or pythonic code and play around that.
 -->
-
-
-Absolutely! Let's make your company's GitHub README shine. Here's a revised version with improvements for clarity, professionalism, and a touch of personality:
-
-**README.md**
 
 ### Hi there 👋
 
@@ -35,14 +28,3 @@ Sohipm is a DaaS platform empowering individuals and businesses with the tools f
 * **Fun Fact:**  We believe in making data science accessible, engaging, and even a little bit playful!
 
 **Let us help you unlock the power of data science!** 
-
-**Changes and Reasoning:**
-
-* **Clear Title:** It immediately identifies your company and service offering (DaaS).
-* **Concise Description:** A short and impactful statement highlighting what Sohipm provides.
-* **Actionable Headings:**  Guide visitors towards exploration, collaboration, and support.
-* **Professional Tone:** Polished language while remaining approachable. 
-* **Contact and Organizer:** Emphasize the people behind the work.
-* **Fun Fact:**  Adds a touch of personality and reflects a passion for data science.
-
-Let me know if you'd like any additional refinements or have specific areas you'd like to emphasize. 
